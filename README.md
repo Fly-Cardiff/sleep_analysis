@@ -1,5 +1,5 @@
 # sleep_analysis
-MATLAB script to crop DAM sleep data into bespoke 30 minute bins 
+MATLAB script (manual30.m) to crop DAM sleep data into bespoke 30 minute bins 
 
 % Hannah Clarke - DRI Fly Lab Cardiff 
 % Updated: 06/06/2023
